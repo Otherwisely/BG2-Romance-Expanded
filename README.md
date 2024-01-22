@@ -1,7 +1,7 @@
-BG2 Romance Expanded is a work-in-progress mod. Currently, only some components of the project have been completed. They are detailed below.
+BG2 Romance Expanded is a work-in-progress mod that allows players to complete the canon BG2 romances regardless of gender or race. Currently, only some components of the project have been completed. For more in-depth information, see the [wiki](https://github.com/Otherwisely/BG2-Romance-Expanded/wiki).
 
 # Viconia Romance Expanded
-Allows an alternate romance path for a female CHARNAME and allows romance for CHARNAMEs of all races. Expands a few select dialogues. For further details see the [[Viconia]] page.
+Allows an alternate romance path for a female CHARNAME and allows romance for CHARNAMEs of all races. Expands a few select dialogues.
 
 # Phaere Expanded
 In the unmodded game, male CHARNAMEs can flirt with and even sleep with Phaere. This option allows female CHARNAMEs to do the same. Includes new reactivity from Anomen, Rasaad, and Hexxat. Adds dialogue options to Aerie's reaction that can prevent the romance from breaking.
