@@ -8,6 +8,8 @@ Allows an alternate romance path for a female CHARNAME and allows romance for CH
 ## Phaere Expanded
 In the unmodded game, male CHARNAMEs can flirt with and even sleep with Phaere. This option allows female CHARNAMEs to do the same. Includes new reactivity from Anomen, Rasaad, and Hexxat. Adds dialogue options to Aerie's reaction that can prevent the romance from breaking.
 
+***
+
 ## Compatibility
 This mod was designed to work specifically with BG2:EE.
 
