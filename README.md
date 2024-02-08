@@ -1,9 +1,9 @@
 BG2 Romance Expanded is a work-in-progress mod that allows players to complete the original BG2 romances regardless of gender or race. Currently, only some components of the project have been completed. For more in-depth information, see the [wiki](https://github.com/Otherwisely/BG2-Romance-Expanded/wiki).
 
 <h1 align="center">BG2 Romance Expanded</h1>
-<b>Not used to github? Here's how to download:</b>
+<b>Not used to github? Here's how to download:</b><br>
 
-![how to download](https://github.com/Otherwisely/BG2-Romance-Expanded/assets/141562407/8cb9dc57-61ff-4283-8a76-d4a1efc30601)
+<img src="https://github.com/Otherwisely/BG2-Romance-Expanded/assets/141562407/8cb9dc57-61ff-4283-8a76-d4a1efc30601" height="300">
 
 ## Viconia Romance Expanded
 Allows an alternate romance path for a female CHARNAME and allows romance for CHARNAMEs of all races. A few select dialogues have been expanded. Features include:
