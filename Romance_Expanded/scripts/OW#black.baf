@@ -1,0 +1,13 @@
+// Fade to Black
+IF
+True() 
+THEN 
+RESPONSE #100 
+CutSceneId(Player1) 
+Wait(1)
+FadeToColor([20.0],0)
+Wait(3)
+FadeFromColor([20.0],0)
+MoveViewObject(Player1,INSTANT) 
+EndCutSceneMode() 
+END 

@@ -1,0 +1,8 @@
+// ACTIVATE ROMANCE
+IF
+	!Global("JaheiraMatch","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("CheckJaheiraMatch","GLOBAL",1)
+		SetGlobal("JaheiraMatch","GLOBAL",1)
+END

@@ -1,0 +1,8 @@
+// ACTIVATE ROMANCE
+IF
+	!Global("NeeraMatch","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetGlobal("CheckNeeraMatch","GLOBAL",1)
+		SetGlobal("NeeraMatch","GLOBAL",1)
+END

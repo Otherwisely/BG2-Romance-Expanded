@@ -1,0 +1,49 @@
+//Romance conflict with Viconia
+IF
+	IfValidForPartyDialog("rasaad")
+	IfValidForPartyDialog("viconia")
+	OR(2)
+		Global("RasaadRomanceActive","GLOBAL",1)
+		Global("RasaadRomanceActive","GLOBAL",2)
+	GlobalGT("RasaadLovetalks","GLOBAL",9)
+	OR(2)
+		Global("ViconiaRomanceActive","GLOBAL",1)
+		Global("ViconiaRomanceActive","GLOBAL",2)
+	Global("OWR_viconiaconflict","GLOBAL",0)
+THEN
+	RESPONSE #100
+		SetGlobal("OWR_viconiaconflict","GLOBAL",1)
+		RealSetGlobalTimer("OWR_viconiaconflict_timer","GLOBAL",1200)
+		Continue()
+END
+
+IF
+	IfValidForPartyDialog("rasaad")
+	IfValidForPartyDialog("viconia")
+	OR(2)
+		Global("RasaadRomanceActive","GLOBAL",1)
+		Global("RasaadRomanceActive","GLOBAL",2)
+	OR(2)
+		Global("ViconiaRomanceActive","GLOBAL",1)
+		Global("ViconiaRomanceActive","GLOBAL",2)
+	Global("OWR_viconiaconflict","GLOBAL",1)
+	RealGlobalTimerExpired("OWR_viconiaconflict_timer","GLOBAL")
+THEN
+	RESPONSE #100
+		SetGlobal("OWR_viconiaconflict","GLOBAL",2)
+		Continue()
+END
+
+IF
+	IfValidForPartyDialog("rasaad")
+	IfValidForPartyDialog("viconia")
+	CombatCounter(0)
+	!AreaType(DUNGEON)
+	!See([ENEMY])
+	!StateCheck("Rasaad",CD_STATE_NOTVALID)
+	!StateCheck(Player1,CD_STATE_NOTVALID)
+	Global("OWR_viconiaconflict","GLOBAL",2)
+THEN
+	RESPONSE #100
+		Dialogue(Player1)
+END
