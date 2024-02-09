@@ -1,4 +1,4 @@
-BG2 Romance Expanded is a work-in-progress mod that allows players to complete the original BG2 romances regardless of gender or race. Currently, only some components of the project have been completed. For more in-depth information, see the [wiki](https://github.com/Otherwisely/BG2-Romance-Expanded/wiki).
+BG2 Romance Expanded is a series of mods that allow players to complete the original BG2 romances regardless of gender or race. Currently, only some components of the project have been completed. For more in-depth information, see the [wiki](https://github.com/Otherwisely/BG2-Romance-Expanded/wiki).
 
 <h1 align="center">BG2 Romance Expanded</h1>
 <b>Not used to github? Here's how to download:</b><br>
