@@ -1,12 +1,21 @@
 BG2 Romance Expanded is a series of mods that allow players to complete the original BG2 romances regardless of gender or race. Currently, only some components of the project have been completed. For more in-depth information, see the [wiki](https://github.com/Otherwisely/BG2-Romance-Expanded/wiki).
 
 <h1 align="center">BG2 Romance Expanded</h1>
-<b>Not used to github? Here's how to download:</b><br>
+<p align="center"> <a href=https://github.com/Otherwisely/BG2-Romance-Expanded#viconia-romance-expanded>Viconia Romance Expanded</a> • <a href=https://github.com/Otherwisely/BG2-Romance-Expanded#phaere-expanded>Phaere Expanded</a> • <a href=https://github.com/Otherwisely/BG2-Romance-Expanded#unlock-other-romances>Unlock Other Romances</a></p>
+ 
+<p align="center"><a href=https://github.com/Otherwisely/BG2-Romance-Expanded#compatibility>Compatibility</a> • <a href=https://github.com/Otherwisely/BG2-Romance-Expanded#credits>Credits</a></p>
 
+## Installation
+<b>Not used to github? Here's how to download:</b><br>
 <img src="https://github.com/Otherwisely/BG2-Romance-Expanded/assets/141562407/8cb9dc57-61ff-4283-8a76-d4a1efc30601" height="300">
 
-## Viconia Romance Expanded
-Allows an alternate romance path for a female CHARNAME and allows romance for CHARNAMEs of all races. A few select dialogues have been expanded. Features include:
+To install the mod, place setup-Romance_Expanded.exe and the Romance_Expanded file in your BG2EE game directory. Run the exe and follow the prompt to install the desired components.
+
+## Components
+### Viconia Romance Expanded
+Allows an alternate romance path for a female CHARNAME and allows romance for CHARNAMEs of all races. A few select dialogues have been expanded. [[wiki]](https://github.com/Otherwisely/BG2-Romance-Expanded/wiki/Viconia)
+
+Features include:
 * F/F Romance that does not require sexual acts, making it ace-friendly.
 * New romance conflicts and interjections for Anomen, Rasaad, and Hexxat.
 * Existing romance conflicts were written or modified to support same-sex romances with Anomen, Rasaad, Jaheira, and Aerie.
@@ -21,10 +30,10 @@ Allows an alternate romance path for a female CHARNAME and allows romance for CH
   * Romance support for all races (with a few special changes for a half-elf).
 * A few minor grammar, spelling, and miscellaneous corrections.
 
-## Phaere Expanded
+### Phaere Expanded
 This option allows female CHARNAMEs to flirt and sleep with Phaere. Includes new reactivity from Anomen, Rasaad, and Hexxat. Adds dialogue options to Aerie's reaction that can prevent the romance from breaking. Please be aware that this component does not remove the coercive elements original to Phaere's dialogue.
 
-## Unlock Other Romances
+### Unlock Other Romances
 Provided for the sake of convenience, this component removes romance restrictions on characters who have not yet been expanded. This includes Jaheira, Aerie, Anomen, Rasaad, and Neera. Aside from a few instances here and there, their dialogue remains untouched and may refer to the player character incorrectly (e.g. pronouns).
 
 ***
