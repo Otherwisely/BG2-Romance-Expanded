@@ -1,3 +1,11 @@
+![Latest Release](https://img.shields.io/github/v/release/Otherwisely/BG2-Romance-Expanded?include_prereleases&color=darkred)
+![GitHub (Pre-)Release Date](https://img.shields.io/github/release-date-pre/Otherwisely/BG2-Romance-Expanded?color=gold)
+![Language](https://img.shields.io/static/v1?label=language&message=English&color=limegreen)
+[![Created Badge](https://badges.pufler.dev/created/Otherwisely/BG2-Romance-Expanded?style=plastic)](https://badges.pufler.dev)
+![GitHub repo size](https://img.shields.io/github/repo-size/Otherwisely/BG2-Romance-Expanded?style=plastic)
+[![Visits Badge](https://badges.pufler.dev/visits/Otherwisely/BG2-Romance-Expanded?color=cyan&style=plastic)](https://badges.pufler.dev) 
+![Maintenance](https://img.shields.io/static/v1?label=maintained%3F&message=yes&color=greenlight&style=plastic)
+
 BG2 Romance Expanded is a series of mods that allow players to complete the original BG2 romances regardless of gender or race. Currently, only some components of the project have been completed. For more in-depth information, see the [wiki](https://github.com/Otherwisely/BG2-Romance-Expanded/wiki).
 
 <h1 align="center">BG2 Romance Expanded</h1>
