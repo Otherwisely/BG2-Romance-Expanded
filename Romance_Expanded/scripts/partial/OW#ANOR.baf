@@ -1,8 +1,0 @@
-// ACTIVATE ROMANCE
-IF
-	!Global("AnomenMatch","GLOBAL",1)
-THEN
-	RESPONSE #100
-		SetGlobal("CheckAnomenMatch","GLOBAL",1)
-		SetGlobal("AnomenMatchMatch","GLOBAL",1)
-END

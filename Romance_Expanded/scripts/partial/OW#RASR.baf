@@ -1,8 +1,0 @@
-// ACTIVATE ROMANCE
-IF
-	!Global("RasaadMatch","GLOBAL",1)
-THEN
-	RESPONSE #100
-		SetGlobal("CheckRasaadMatch","GLOBAL",1)
-		SetGlobal("RasaadMatchMatch","GLOBAL",1)
-END

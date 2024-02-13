@@ -1,8 +1,0 @@
-// ACTIVATE ROMANCE
-IF
-	!Global("AerieMatch","GLOBAL",1)
-THEN
-	RESPONSE #100
-		SetGlobal("CheckAerieMatch","GLOBAL",1)
-		SetGlobal("AerieMatch","GLOBAL",1)
-END
