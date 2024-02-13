@@ -11,7 +11,7 @@ BG2 Romance Expanded is a series of mods that allow players to complete the orig
 <h1 align="center">BG2 Romance Expanded</h1>
 <p align="center"> <a href=https://github.com/Otherwisely/BG2-Romance-Expanded#viconia-romance-expanded>Viconia Romance Expanded</a> • <a href=https://github.com/Otherwisely/BG2-Romance-Expanded#phaere-expanded>Phaere Expanded</a> • <a href=https://github.com/Otherwisely/BG2-Romance-Expanded#unlock-other-romances>Unlock Other Romances</a></p>
  
-<p align="center"><a href=https://github.com/Otherwisely/BG2-Romance-Expanded#compatibility>Compatibility</a> • <a href=https://github.com/Otherwisely/BG2-Romance-Expanded#credits>Credits</a> • <a href=https://github.com/Otherwisely/BG2-Romance-Expanded#Version%20History>Version History</a></p>
+<p align="center"><a href=https://github.com/Otherwisely/BG2-Romance-Expanded#compatibility>Compatibility</a> • <a href=https://github.com/Otherwisely/BG2-Romance-Expanded#credits>Credits</a> • <a href="https://github.com/Otherwisely/BG2-Romance-Expanded?tab=readme-ov-file#version-history">Version History</a></p>
 
 ## Installation
 Go [here](https://github.com/Otherwisely/BG2-Romance-Expanded/releases/) to download the most recent release.
