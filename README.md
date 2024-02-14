@@ -1,17 +1,19 @@
 ![Latest Release](https://img.shields.io/github/v/release/Otherwisely/BG2-Romance-Expanded?include_prereleases&color=darkred)
-![GitHub (Pre-)Release Date](https://img.shields.io/github/release-date-pre/Otherwisely/BG2-Romance-Expanded?color=gold)
-![Language](https://img.shields.io/static/v1?label=language&message=English&color=limegreen)
+![Supported games](https://img.shields.io/static/v1?label=supported%20games&message=BG2%3AEE%20%7C%20EET&color=dodgerblue)
+![Language](https://img.shields.io/static/v1?label=language&message=English&color=gold)
 [![Created Badge](https://badges.pufler.dev/created/Otherwisely/BG2-Romance-Expanded)](https://badges.pufler.dev)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Otherwisely/BG2-Romance-Expanded)
 [![Visits Badge](https://badges.pufler.dev/visits/Otherwisely/BG2-Romance-Expanded?color=cyan)](https://badges.pufler.dev) 
 ![Maintenance](https://img.shields.io/static/v1?label=maintained%3F&message=yes&color=greenlight)
 
-BG2 Romance Expanded is a series of mods that allow players to complete the original BG2 romances regardless of gender or race. Currently, only some components of the project have been completed. For more in-depth information, see the [wiki](https://github.com/Otherwisely/BG2-Romance-Expanded/wiki).
+BG2 Romance Expanded is a series of mods that allow players to complete the original BG2 romances regardless of gender or race. Currently, only some components of the project have been completed.
 
 <h1 align="center">BG2 Romance Expanded</h1>
 <p align="center"> <a href=https://github.com/Otherwisely/BG2-Romance-Expanded#viconia-romance-expanded>Viconia Romance Expanded</a> • <a href=https://github.com/Otherwisely/BG2-Romance-Expanded#phaere-expanded>Phaere Expanded</a> • <a href=https://github.com/Otherwisely/BG2-Romance-Expanded#unlock-other-romances>Unlock Other Romances</a></p>
  
-<p align="center"><a href=https://github.com/Otherwisely/BG2-Romance-Expanded#compatibility>Compatibility</a> • <a href=https://github.com/Otherwisely/BG2-Romance-Expanded#credits>Credits</a> • <a href="https://github.com/Otherwisely/BG2-Romance-Expanded?tab=readme-ov-file#version-history">Version History</a></p>
+<p align="center"><a href=https://github.com/Otherwisely/BG2-Romance-Expanded#compatibility>Compatibility</a> • <a href=https://github.com/Otherwisely/BG2-Romance-Expanded#credits>Credits</a> • <a href="https://github.com/Otherwisely/BG2-Romance-Expanded?tab=readme-ov-file#version-history">Version History</a></p><br>
+
+<p align="center"><b>Similar mods:</b> <a href="https://github.com/trinit2/Bg2Dorn">Dorn Romance Expansion for BG2EE</a> by trinit2 • <a href="http://www.shsforums.net/files/file/1022-neera-expansion/">Neera Expansion for BG1EE</a> by Kaeloree</p>
 
 ## Installation
 Go [here](https://github.com/Otherwisely/BG2-Romance-Expanded/releases/) to download the most recent release.
@@ -49,13 +51,15 @@ Provided for the sake of convenience, this component removes romance restriction
 ***
 
 ## Compatibility
-This mod was designed to work specifically with BG2:EE and may not be compatible with the original release of BG2.
+This mod was designed to work specifically with BG2:EE and may not be compatible with the original release of BG2. The mod is EET-compatible.
 
 <details><summary><b>Existing Patches</b></summary>
  The following mods have had patches built into Romance Expanded. To take advantage of these patches, install Romance Expanded <i>after</i> the mods listed below.
  <ul><li><a href="https://downloads.weaselmods.net/download/will-of-the-wisps/">Will of the Wisps</a>: Shaman stronghold can be discussed in LT59.</li>
   <li><a href="https://www.pocketplane.net/unfinished-business/">Unfinished Business</a>: If using the Pai'na component, Viconia may address Pai'na more politely.</li>
-  <li><a href="http://www.shsforums.net/forum/555-viconia-friendship/">Viconia Friendship</a>: Viconia's friendship path will no longer start during an F/F romance. It will instead start after a breakup, as intended. This prevents duplicate dialogues from triggering.</li></ul></ul></details>
+  <li><a href="http://www.shsforums.net/forum/555-viconia-friendship/">Viconia Friendship</a>: Viconia's friendship path will no longer start during an F/F romance. It will instead start after a breakup, as intended. This prevents duplicate dialogues from triggering.</li>
+  <li><a href="http://www.shsforums.net/forum/530-iep-extended-banters/">IEP Extended Banters</a>: The Korgan-Viconia banter now reflects whether Viconia is in a relationship with a female character. Two Jaheira-Viconia banters may change if Viconia has promised to be more respectful of half-elves.</li>
+ </ul></ul></details>
 
 This mod should be compatible with other WeiDU mods. However, some mods may contradict specific elements of this mod. For example, other mods may reference a female CHARNAME as male. Compatibility patches for such instances are planned for future versions of this mod. If you encounter any major mod conflicts, please reach out on the [discussions page](https://github.com/Otherwisely/BG2-Romance-Expanded/discussions) or the [G3 forum](https://www.gibberlings3.net/forums/topic/37854-viconia-romance-expanded-for-bg2ee-phaere-expanded/).
 
@@ -74,6 +78,11 @@ Thank you to the greater BG2 modding community and the wonderful guides and reso
 ***
 
 # Version History
+<b>v1.0.2</b>
+<ul><li>Compatibility patch for IEP Banters</li>
+<li>Immutability/encapsulation added to mod</li>
+<li>EET compatibility</li></ul>
+
 <b>v1.0.1</b>
 <ul>
   <li>english tra files completed</li>
