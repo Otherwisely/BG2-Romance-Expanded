@@ -18,7 +18,7 @@ BG2 Romance Expanded is a series of mods that allow players to complete the orig
 ## Installation
 Go [here](https://github.com/Otherwisely/BG2-Romance-Expanded/releases/) to download the most recent release.
 
-To install the mod, place setup-Romance_Expanded.exe and the Romance_Expanded file in your BG2EE game directory. Run the exe and follow the prompt to install the desired components.
+To install the mod, place setup-Romance_Expanded.exe and the Romance_Expanded file in your BG2EE game directory. Run the exe and follow the prompts to install the desired components.
 
 ## Components
 ### Viconia Romance Expanded
@@ -75,10 +75,12 @@ The mod is currently only available in English. If you would like to translate i
 
 Thank you to the greater BG2 modding community and the wonderful guides and resources that have been developed in the 20+ years since this game was first released.
 
+This mod is shared under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> license. Please feel free to make crossmod content in relation to this mod and reach out if you have any questions while doing so.
+
 ***
 
 # Version History
-<b>v1.0.2</b>
+<details><summary>Click to Expand</summary><b>v1.0.2</b>
 <ul><li>Compatibility patch for IEP Banters</li>
 <li>Immutability/encapsulation added to mod</li>
 <li>EET compatibility</li></ul>
@@ -91,4 +93,4 @@ Thank you to the greater BG2 modding community and the wonderful guides and reso
   <li>Unfinished Business: If using the Pai'na component, Viconia may address Pai'na more politely.</li>
   <li>Viconia Friendship: Viconia's friendship path will no longer start during an F/F romance. It will instead start after a breakup, as intended.</li></ul></ul>
 
-<b>v1.0.0</b> - release
+<b>v1.0.0</b> - release</details>
