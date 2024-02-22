@@ -75,13 +75,13 @@ The mod is currently only available in English. If you would like to translate i
 
 Thank you to the greater BG2 modding community and the wonderful guides and resources that have been developed in the 20+ years since this game was first released.
 
-This mod is shared under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> license. Please feel free to make crossmod content in relation to this mod and reach out if you have any questions while doing so.
+This mod is shared under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons BY-NC-SA 4.0</a> license. Please feel free to make crossmod content in relation to this mod and reach out if you have any questions while doing so.
 
 ***
 
 # Version History
 <details><summary>Click to Expand</summary>
- <b>v1.0.3</b> - fixed a handful of gender tags
+ <b>v1.0.3</b> - fixed a handful of gender tags<br><br>
  
  <b>v1.0.2</b>
 <ul><li>Compatibility patch for IEP Banters</li>
