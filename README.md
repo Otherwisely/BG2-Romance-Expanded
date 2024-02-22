@@ -80,7 +80,10 @@ This mod is shared under a <a href="https://creativecommons.org/licenses/by-nc-s
 ***
 
 # Version History
-<details><summary>Click to Expand</summary><b>v1.0.2</b>
+<details><summary>Click to Expand</summary>
+ <b>v1.0.3</b> - fixed a handful of gender tags
+ 
+ <b>v1.0.2</b>
 <ul><li>Compatibility patch for IEP Banters</li>
 <li>Immutability/encapsulation added to mod</li>
 <li>EET compatibility</li></ul>
