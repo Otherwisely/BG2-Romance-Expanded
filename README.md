@@ -88,6 +88,7 @@ This mod is shared under a <a href="https://creativecommons.org/licenses/by-nc-s
 
 # Version History
 <details><summary>Click to Expand</summary>
+ <b>v.1.0.4</b> - fixed some dialogue errors; fixed neera's and rasaad's romances to trigger properly for the same sex.<br><br>
  <b>v1.0.3</b> - fixed a handful of gender tags<br><br>
  
  <b>v1.0.2</b>
