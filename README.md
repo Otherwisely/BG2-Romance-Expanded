@@ -36,11 +36,21 @@ Allows an alternate romance path for a female CHARNAME and allows romance for CH
     <li>LT33: The dialogue option stating that Viconia mentioned her brother will only appear if she actually mentioned her brother.</li>
     <li>LT37: Dialogue referencing Viconia's story about the baby will change to reflect if she actually told the story.</li>
     <li>LT55: CHARNAME can share more specific coming-of-age moments with Viconia. Imoen may interject if present.</li>
-    <li>LT57: Viconia’s dialogue will reflect the current state of the plot, including whether or not Imoen has been rescued and if Bodhi is still alive.</li>
+    <li>LT57: Viconia’s dialogue will reflect the current state of the plot, including whether or not Imoen has been rescued and if Bodhi is still alive. <!-- Imoen may interject if present. --> </li>
     <li>LT59: When discussing the future, the player can now bring up their stronghold (if any) and Viconia will react accordingly.</li>
-    <li>Romance support for all races (with a few special changes for a half-elf).</li></ul>
+    <li>Romance support for all races.</li>
+    <ul><li>Half-elves may ask Viconia to use less racist language when refering to half-elves in general.</li>
+    <!-- <li>Elves will get a special dialogue with Viconia upon entering Suldanessellar.</li> --> </ul>
   <li>A few minor grammar, spelling, and miscellaneous corrections.</li>
 </ul></details>
+
+<details><summary><b>Existing Patches</b></summary>
+ The following mods have had patches built into Romance Expanded. To take advantage of these patches, install Romance Expanded <i>after</i> the mods listed below.
+ <ul><li><a href="https://downloads.weaselmods.net/download/will-of-the-wisps/">Will of the Wisps</a>: Shaman stronghold can be discussed in LT59.</li>
+  <li><a href="https://www.pocketplane.net/unfinished-business/">Unfinished Business</a>: If using the Pai'na component, Viconia may address Pai'na more politely.</li>
+  <li><a href="http://www.shsforums.net/forum/555-viconia-friendship/">Viconia Friendship</a>: Viconia's friendship path will no longer start during an F/F romance. It will instead start after a breakup, as intended. This prevents duplicate dialogues from triggering.</li>
+  <li><a href="http://www.shsforums.net/forum/530-iep-extended-banters/">IEP Extended Banters</a>: The Korgan-Viconia banter now reflects whether Viconia is in a relationship with a female character. Two Jaheira-Viconia banters may change if Viconia has promised to be more respectful of half-elves.</li>
+ </ul></ul></details>
 
 <details><summary><b>Known Issues</b></summary>
 In the unmodded romance, there are a couple of issues with LTs triggering correctly. LT41 and LT51 will not always immediately trigger after their previous lovetalks despite being intended to do so. Relatedly, LT67 will immediately trigger after LT65 despite being meant to trigger after some time has passed. These issues persist in the modded version. A solution is being sought and will hopefully be implemented in future versions of the mod.<p>
@@ -59,14 +69,6 @@ Provided for the sake of convenience, this component removes romance restriction
 
 ## Compatibility
 This mod was designed to work specifically with BG2:EE and may not be compatible with the original release of BG2. The mod is EET-compatible.
-
-<details><summary><b>Existing Patches</b></summary>
- The following mods have had patches built into Romance Expanded. To take advantage of these patches, install Romance Expanded <i>after</i> the mods listed below.
- <ul><li><a href="https://downloads.weaselmods.net/download/will-of-the-wisps/">Will of the Wisps</a>: Shaman stronghold can be discussed in LT59.</li>
-  <li><a href="https://www.pocketplane.net/unfinished-business/">Unfinished Business</a>: If using the Pai'na component, Viconia may address Pai'na more politely.</li>
-  <li><a href="http://www.shsforums.net/forum/555-viconia-friendship/">Viconia Friendship</a>: Viconia's friendship path will no longer start during an F/F romance. It will instead start after a breakup, as intended. This prevents duplicate dialogues from triggering.</li>
-  <li><a href="http://www.shsforums.net/forum/530-iep-extended-banters/">IEP Extended Banters</a>: The Korgan-Viconia banter now reflects whether Viconia is in a relationship with a female character. Two Jaheira-Viconia banters may change if Viconia has promised to be more respectful of half-elves.</li>
- </ul></ul></details>
 
 This mod should be compatible with other WeiDU mods. However, some mods may contradict specific elements of this mod. For example, other mods may reference a female CHARNAME as male. Compatibility patches for such instances are planned for future versions of this mod. If you encounter any major mod conflicts, please reach out on the [discussions page](https://github.com/Otherwisely/BG2-Romance-Expanded/discussions) or the [G3 forum](https://www.gibberlings3.net/forums/topic/37854-viconia-romance-expanded-for-bg2ee-phaere-expanded/).
 
@@ -88,6 +90,16 @@ This mod is shared under a <a href="https://creativecommons.org/licenses/by-nc-s
 
 # Version History
 <details><summary>Click to Expand</summary>
+<!-- <b>v1.0.5</b>
+<ul>
+  <li>Viconia's LT57</li><ul>
+  <li>If present, Imoen may interject.</li>
+  <li>If you have defeated Bodhi but Viconia was NOT turned into a vampire (due to her romance not having sufficiently progressed), Viconia's dialogue will now reflect this.</li></ul>
+  <li>Hexxat and Viconia have a new romance conflict.</li>
+  <li>If playing as an elf, Viconia will have a new dialogue upon entering Suldanessellar.</li>
+  <li>Further audio editing has taken place and there is now an option to remove or abridge gendered dialogue.</li>
+  <li>Various minor corrections.</li></ul> -->
+ 
  <b>v.1.0.4</b> - fixed some dialogue errors; fixed neera's and rasaad's romances to trigger properly for the same sex.<br><br>
  <b>v1.0.3</b> - fixed a handful of gender tags<br><br>
  
