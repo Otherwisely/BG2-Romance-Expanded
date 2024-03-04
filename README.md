@@ -48,7 +48,7 @@ Allows an alternate romance path for a female CHARNAME and allows romance for CH
  <ul><li><a href="https://downloads.weaselmods.net/download/will-of-the-wisps/">Will of the Wisps</a>: Shaman stronghold can be discussed in LT59.</li>
   <li><a href="https://www.pocketplane.net/unfinished-business/">Unfinished Business</a>: If using the Pai'na component, Viconia may address Pai'na more politely.</li>
   <li><a href="http://www.shsforums.net/forum/555-viconia-friendship/">Viconia Friendship</a>: Viconia's friendship path will no longer start during an F/F romance. It will instead start after a breakup, as intended. This prevents duplicate dialogues from triggering.</li>
-  <li><a href="http://www.shsforums.net/forum/530-iep-extended-banters/">IEP Extended Banters</a>: The Korgan-Viconia banter now reflects whether Viconia is in a relationship with a female character. Two Jaheira-Viconia banters may change if Viconia has promised to be more respectful of half-elves.</li>
+  <li><s><a href="http://www.shsforums.net/forum/530-iep-extended-banters/">IEP Extended Banters</a>: The Korgan-Viconia banter now reflects whether Viconia is in a relationship with a female character. Two Jaheira-Viconia banters may change if Viconia has promised to be more respectful of half-elves.</s> Due to a coding issue, this patch has been temporarily removed while a solution is being sought.</li>
  </ul></ul></details>
 
 <details><summary><b>Known Issues</b></summary>
