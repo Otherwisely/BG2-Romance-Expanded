@@ -28,24 +28,23 @@ Allows an alternate romance path for a female CHARNAME and allows romance for CH
 <ul>
   <li>F/F Romance that does not require sexual acts, making it ace-friendly.</li>
   <li>New romance conflicts and interjections for Anomen, Rasaad, and Hexxat.</li>
-  <li>Existing romance conflicts were written or modified to support same-sex romances with Anomen, Rasaad, Jaheira, and Aerie.</li>
   <li>Improved and expanded dialogue for both genders.</li>
-    <ul>
-    <li>LT7: Viconia’s compliment is reflective of CHARNAME’s stats.</li>
+    <ul><li>LT7: Viconia’s compliment is reflective of CHARNAME’s stats.</li>
+    <li>LT9: Viconia's dialogue will change to reflect if she actually told the story about the farmer.</li>
     <li>LT13: The events of SOD are acknowledged. The player may also have a more personalized discussion of how Viconia views CHARNAME’s race. Relatedly, LT31 has Viconia say she "likely" worshipped Lolth longer than CHARNAME has been alive in order to account for longer-lived races.</li>
     <li>LT33: The dialogue option stating that Viconia mentioned her brother will only appear if she actually mentioned her brother.</li>
     <li>LT37: Dialogue referencing Viconia's story about the baby will change to reflect if she actually told the story.</li>
     <li>LT55: CHARNAME can share more specific coming-of-age moments with Viconia. Imoen may interject if present.</li>
-    <li>LT57: Viconia’s dialogue will reflect the current state of the plot, including whether or not Imoen has been rescued and if Bodhi is still alive. <!-- Imoen may interject if present. --> </li>
+    <li>LT57: Viconia’s dialogue will reflect the current state of the plot, including whether or not Imoen has been rescued and if Bodhi is still alive. Imoen may interject if present.</li>
     <li>LT59: When discussing the future, the player can now bring up their stronghold (if any) and Viconia will react accordingly.</li>
     <li>Romance support for all races.</li>
     <ul><li>Half-elves may ask Viconia to use less racist language when refering to half-elves in general.</li>
-    <!-- <li>Elves will get a special dialogue with Viconia upon entering Suldanessellar.</li> --> </ul>
+    <li>Elves will get a special dialogue with Viconia upon entering Suldanessellar.</li></ul>
   <li>A few minor grammar, spelling, and miscellaneous corrections.</li>
 </ul></details>
 
 <details><summary><b>Existing Patches</b></summary>
- The following mods have had patches built into Romance Expanded. To take advantage of these patches, install Romance Expanded <i>after</i> the mods listed below.
+ The following mods have had patches built into the Viconia component of Romance Expanded. To take advantage of these patches, install Romance Expanded <i>after</i> the mods listed below.
  <ul><li><a href="https://downloads.weaselmods.net/download/will-of-the-wisps/">Will of the Wisps</a>: Shaman stronghold can be discussed in LT59.</li>
   <li><a href="https://www.pocketplane.net/unfinished-business/">Unfinished Business</a>: If using the Pai'na component, Viconia may address Pai'na more politely.</li>
   <li><a href="http://www.shsforums.net/forum/555-viconia-friendship/">Viconia Friendship</a>: Viconia's friendship path will no longer start during an F/F romance. It will instead start after a breakup, as intended. This prevents duplicate dialogues from triggering.</li>
@@ -58,6 +57,9 @@ In the unmodded romance, there are a couple of issues with LTs triggering correc
  While playing the mod, you may encounter audio lines that refer to CHARNAME as male even if playing as a female character. Although not ideal, this was intentionally left as-is. Viconia does not have enough audio lines using words such as she/her, woman, etc to be able to edit the lines accordingly. Due to the ethical issues regarding AI, it was decided not to use a voice cloner replace these lines.
 
 If you encounter any additional issues--especially lines that refer to a female CHARNAME as male--please let me know on the [discussions page](https://github.com/Otherwisely/BG2-Romance-Expanded/discussions) or on whichever forum you originally found this mod.</details>
+
+#### Subcomponent: Alternate Audio (Viconia)
+This option will replace audio that may refer to CHARNAME's gender incorrectly, either shortening the audio or removing it entirely. Please note that even without this component installed, some female-only dialogue already has altered audio.
 
 ### Phaere Expanded
 This option allows female CHARNAMEs to flirt and sleep with Phaere. Includes new reactivity from Anomen, Rasaad, and Hexxat. Adds dialogue options to Aerie's reaction that can prevent the romance from breaking. Please be aware that this component does not remove the coercive elements original to Phaere's dialogue.
@@ -90,15 +92,16 @@ This mod is shared under a <a href="https://creativecommons.org/licenses/by-nc-s
 
 # Version History
 <details><summary>Click to Expand</summary>
-<!-- <b>v1.0.5</b>
+<b>v1.0.5</b>
 <ul>
+  <li>Viconia's LT9: Viconia's dialogue will change to reflect if she actually told the story about the farmer.</li>
   <li>Viconia's LT57</li><ul>
   <li>If present, Imoen may interject.</li>
   <li>If you have defeated Bodhi but Viconia was NOT turned into a vampire (due to her romance not having sufficiently progressed), Viconia's dialogue will now reflect this.</li></ul>
   <li>Hexxat and Viconia have a new romance conflict.</li>
   <li>If playing as an elf, Viconia will have a new dialogue upon entering Suldanessellar.</li>
   <li>Further audio editing has taken place and there is now an option to remove or abridge gendered dialogue.</li>
-  <li>Various minor corrections.</li></ul> -->
+  <li>Various minor corrections.</li></ul>
  
  <b>v.1.0.4</b> - fixed some dialogue errors; fixed neera's and rasaad's romances to trigger properly for the same sex.<br><br>
  <b>v1.0.3</b> - fixed a handful of gender tags<br><br>
