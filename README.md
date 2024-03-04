@@ -53,8 +53,6 @@ Allows an alternate romance path for a female CHARNAME and allows romance for CH
 
 <details><summary><b>Known Issues</b></summary>
 In the unmodded romance, there are a couple of issues with LTs triggering correctly. LT41 and LT51 will not always immediately trigger after their previous lovetalks despite being intended to do so. Relatedly, LT67 will immediately trigger after LT65 despite being meant to trigger after some time has passed. These issues persist in the modded version. A solution is being sought and will hopefully be implemented in future versions of the mod.<p>
- 
- While playing the mod, you may encounter audio lines that refer to CHARNAME as male even if playing as a female character. Although not ideal, this was intentionally left as-is. Viconia does not have enough audio lines using words such as she/her, woman, etc to be able to edit the lines accordingly. Due to the ethical issues regarding AI, it was decided not to use a voice cloner replace these lines.
 
 If you encounter any additional issues--especially lines that refer to a female CHARNAME as male--please let me know on the [discussions page](https://github.com/Otherwisely/BG2-Romance-Expanded/discussions) or on whichever forum you originally found this mod.</details>
 
