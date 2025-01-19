@@ -10,7 +10,7 @@ BG2 Romance Expanded is a series of mods that allow players to complete BG2 roma
 
 [![Beamdog Forums](https://img.shields.io/static/v1?label=Discussion&message=Gibberlings3%20Forums&color=444&labelColor=eee&style=for-the-badge)](https://www.gibberlings3.net/forums/topic/37854-v106-viconia-romance-expanded-for-bg2ee-phaere-expanded/ "G3 Forums")
 &nbsp;&nbsp;
-[![Beamdog Forums](https://img.shields.io/static/v1?label=Discussion&message=Beamdog%20Forums&color=444&labelColor=eee&style=for-the-badge)](https://forums.beamdog.com/discussion/88256/ "Beamdog Forums")
+[![Beamdog Forums](https://img.shields.io/static/v1?label=Discussion&message=Beamdog%20Forums&color=444&labelColor=eee&style=for-the-badge)](https://forums.beamdog.com/discussion/88256/romance-expanded-viconia-and-phaere-complete/p1/ "Beamdog Forums")
 
 <h1 align="center">BG2 Romance Expanded</h1>
 <p align="center"> <a href=https://github.com/Otherwisely/BG2-Romance-Expanded#viconia-romance-expanded>Viconia Romance Expanded</a> • <a href=https://github.com/Otherwisely/BG2-Romance-Expanded#phaere-expanded>Phaere Expanded</a> • <a href=https://github.com/Otherwisely/BG2-Romance-Expanded#unlock-other-romances>Unlock Other Romances</a></p>
