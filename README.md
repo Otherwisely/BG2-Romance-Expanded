@@ -94,6 +94,11 @@ This mod is shared under a <a href="https://creativecommons.org/licenses/by-nc-s
 
 # Version History
 <details><summary>Click to Expand</summary>
+ <b>v1.0.7</b>
+<ul><li>Fixed a few issues with LT31 and LT57.
+<li>LT37 now has a friendlier dialogue option if CHARNAME did not previously hear Viconia's story about the sacrifice.</li>
+<li>Improved coding for the Viconia Friendship compatibility patch.</li></ul>
+ 
 <b>v1.0.6</b>
 <ul><li>IEP Banters Extended compatibility fixed</li>
 <li>The Unlock Other Romances component will no longer install if CDTweak's romance cheats is already installed in order to prevent possible conflicts.</li></ul>
